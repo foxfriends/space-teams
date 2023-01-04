@@ -28,7 +28,7 @@
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
-    "@babel/core": "^7.1.2",
+    "@babel/core": "^7.20.7",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-redux": "^5.0.7",
